@@ -1,0 +1,55 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/cars/cars",
+    "pages/car_detail/ao_di/ao_di",
+    "pages/car_detail/super_car/super_car",
+    "pages/wx_API/wx_API",
+    "pages/my/index",
+    "pages/my-order/my-order",
+    "pages/my-address/my-address",
+    "pages/my-search/my-search"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#00BFFF",
+    "navigationBarTitleText": "汽车优选",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":false
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#00BFFF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+      "text": "首页",
+      "pagePath": "pages/index/index",
+      "iconPath": "image/shou_ye.png",
+      "selectedIconPath": "image/shou_ye-select.png"
+      }, 
+      {
+        "text": "选车",
+        "pagePath": "pages/cars/cars",
+        "iconPath": "image/xuan_che.png",
+        "selectedIconPath": "image/xuan_che-select.png"
+      },
+      {
+        "text": "测试",
+        "pagePath": "pages/wx_API/wx_API",
+        "iconPath": "image/wx_API.png",
+        "selectedIconPath": "image/wx_API-select.png"
+      },{
+        "text": "我的",
+        "pagePath": "pages/my/index",
+        "iconPath": "image/my-user0.png",
+        "selectedIconPath": "image/my-user.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+  "request": 10000,
+  "downloadFile": 10000
+  }
+}
