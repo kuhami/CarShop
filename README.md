@@ -5,10 +5,22 @@
 - **基于微信小程序开发的一款移动端汽车商城**
 - **基于 weui.wxss、es6 前端技术开发**
 - **前台[CarShop](https://github.com/kuhami/CarShop/)**
+###[目录结构](https://github.com/kuhami/CarShop)
+    
+    CarShop/
+      |-pages/                      # 小程序页面相关文件
+          |- car_detail
+            |- index.js
+            |- index.json
+            |- index.wxml
+            |- index.wxss
+          |- ...
+      |-app.js                      # 小程序逻辑
+      |-app.json                    # 小程序公共设置
+      |-app.wxss                    # 小程序公共样式表
+      |-...
 
-
-
-### 一、
+###[汽车商城截图](https://github.com/kuhami/CarShop)
 
 <p><a target="_blank" href="https://github.com/kuhami/CarShop/blob/master/image/jt4.jpeg"><img src="https://raw.githubusercontent.com/kuhami/CarShop/master/image/jt4.jpeg" width="375px" style="max-width:100%;"></a></p>
 
