@@ -7,7 +7,7 @@
 - **基于 weui.wxss、es6 前端技术开发**
 - **前台[CarShop](https://github.com/kuhami/CarShop/)**
 
-### 目录结构
+## 目录结构
     
     CarShop/
       |-pages/                      # 小程序页面相关文件
@@ -22,7 +22,7 @@
       |-app.wxss                    # 小程序公共样式表
       |-...
 
-### 汽车商城截图
+## 汽车商城截图
 
 <p><a target="_blank" href="https://github.com/kuhami/CarShop/blob/master/image/jt4.jpeg"><img src="https://raw.githubusercontent.com/kuhami/CarShop/master/image/jt4.jpeg" width="375px" style="max-width:100%;"></a></p>
 
