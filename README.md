@@ -7,6 +7,14 @@
 - **基于 weui.wxss、es6 前端技术开发**
 - **前台[CarShop](https://github.com/kuhami/CarShop/)**
 
+## Usage
+
+```bash
+$ git clone https://github.com/kuhami/CarShop.git
+$ cd CarShop
+//导入微信开发者工具就可以啦
+```
+
 ## 目录结构
     
     CarShop/
